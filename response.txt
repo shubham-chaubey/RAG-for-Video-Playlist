@@ -1,0 +1,5 @@
+CSS (Cascading Style Sheets) is an essential topic in the Sigma Web Development Course. You can learn about CSS in Video 15, which covers three ways to add CSS to any HTML page: inline, internal, and external styles.
+
+In this video, around 39 seconds into the lesson, you'll see how to create a folder named "video 15" and make an index.html file with a boilerplate template. This is where you'll learn about adding CSS styles to your HTML pages.
+
+If you want to dive deeper into CSS, I recommend checking out Video 15 from the start of the video (around 39 seconds) and following along as the instructor explains the different methods for adding CSS styles.
